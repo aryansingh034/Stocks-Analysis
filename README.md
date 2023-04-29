@@ -1,9 +1,9 @@
 # Stock-Analysis
 1.Download the zip folder and extract it using winrar.<br />
-Open the file using visual studio code or anyother IDE.<br />
-Next install  the modules yahoo finance,matplotlib and pandas using command prompt in your IDE.<br />
-Installing yahoo finance:
+2.Open the file using visual studio code or anyother IDE.<br />
+3.Next install  the modules yahoo finance,matplotlib and pandas using command prompt in your IDE.<br />
+4.Installing yahoo finance:
                   pip3 install yfinance<br />
-Installing matplotlib:
+5.Installing matplotlib:
                   pip3 install matplotlib<br />
-After installing the above modules, run the python file (not the code alone).                  
+6.After installing the above modules, run the python file (not the code alone).                  
