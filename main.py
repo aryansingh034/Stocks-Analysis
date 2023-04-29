@@ -32,12 +32,15 @@ elif a==14:
     symbol="LYD"
 elif a==15:
     symbol="JPM"
+else:
+    print("INVALID SELECTION!!")
+    
 
     
 
 # Set the ticker symbol and the start and end dates for the analysis
-start_date = '2010-01-01'
-end_date = '2022-04-29'
+start_date = str(input("Enter the start date:(year-month-date):"))
+end_date= str(input("Enter the ending date:(year-month-date):"))
 
 # Get the stock data from Yahoo Finance
 stock_data = yf.download(symbol, start=start_date, end=end_date)
