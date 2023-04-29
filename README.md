@@ -6,4 +6,6 @@
                   pip3 install yfinance (type this in your ide command prompt)<br />
 5.Installing matplotlib:
                   pip3 install matplotlib (type this in your ide command prompt)<br />
-6.After installing the above modules, run the python file (not the code alone).                  
+6.Installing pandas:
+                  pip3 install pandas (type this in your ide command prompt)<br />
+7.After installing the above modules, run the python file (not the code alone).                  
